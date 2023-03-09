@@ -1,7 +1,5 @@
-# Capstone-Design
+## Capstone-Design
 2023 Capstone Design 'Social Robot'
-
-# Goal of Robot
 
 ## 팀원 구성  
 
@@ -11,3 +9,9 @@
 |[양지원]()||
 |[이우렬]()||
 |[조민규]()||  
+
+## 작품 목표
+
+## Hardware Architecture
+
+## System Architecture
