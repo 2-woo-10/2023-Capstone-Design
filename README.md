@@ -9,7 +9,7 @@
 |[양지원]()||
 |[이우렬](https://github.com/2-woo-10)||
 |[조민규](https://github.com/CHO-MinGyu99)||  
-
+지도교수 : 광운대학교 로봇학부 박광현 교수님.
 ## 작품 목표
 
 ## Hardware Architecture
