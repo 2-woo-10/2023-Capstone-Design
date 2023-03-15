@@ -1,4 +1,4 @@
-## Capstone-Design
+## 2023-Capstone-Design
 광운대학교 로봇학부 2023년도 1학기 캡스톤설계 '改過遷善'팀 Repository입니다.  
 개발 기간 : 2023.3 ~ 2023.6
 
