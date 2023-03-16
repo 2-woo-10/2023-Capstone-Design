@@ -8,7 +8,7 @@
 |:---:|:---:|
 |[강승구(팀장)](https://github.com/ksg85)||
 |[양지원](https://github.com/ynji1)||
-|[이우렬](https://github.com/2-woo-10)||
+|[이우렬](https://github.com/2-woo-10)| 섹스 |
 |[조민규](https://github.com/CHO-MinGyu99)|하드웨어 설계, 회로 설계 및 제작, 하위제어기 설계 및 구현|  
 
 지도교수 : 광운대학교 로봇학부 박광현 교수님.
