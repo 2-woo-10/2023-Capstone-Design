@@ -7,7 +7,7 @@
 |팀원|맡은 역할|
 |:---:|:---:|
 |[강승구(팀장)](https://github.com/ksg85)|전체 지휘 총괄 및 일정 조율, NLP|
-|[양지원](https://github.com/ynji1)|대화 엔진 개발 및 ui 구성|
+|[양지원](https://github.com/ynji1)|대화 엔진 개발 및 UI 구성|
 |[이우렬](https://github.com/2-woo-10)|하위 제어기 설계 및 구현, Computer Vision|
 |[조민규](https://github.com/CHO-MinGyu99)|하드웨어 설계, 회로 설계 및 제작, 하위제어기 설계 및 구현, Kinematics 해석|  
 
